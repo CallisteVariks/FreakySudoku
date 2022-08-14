@@ -1,0 +1,2 @@
+# FreakySudoku
+Android Sudoku app 
